@@ -1,3 +1,4 @@
+#program to find number of zabs born
 a=int(input("enter the number of zab born in this year"))
 b=int(input("enter the number of zab born last year"))
 d=int(input("enter the this year"))
