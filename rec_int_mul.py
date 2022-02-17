@@ -1,5 +1,5 @@
-# Online Python compiler (interpreter) to run Python online.
-# Write Python 3 code in this online editor and run it.
+# multiply 2 number
+
 x=int(input("enter the number"))
 y=int(input("enter the number"))
 n=(len(str(y)))/2
